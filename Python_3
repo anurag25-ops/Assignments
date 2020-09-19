@@ -1,0 +1,8 @@
+# program to find the volume of a sphere with diameter 12 cm
+# Volume of sphere = 4/3*pi*r^3  ; r=d/2
+
+from math import *
+
+d = 12
+Vol = 4 / 3 * pi * (d / 2) ** 3
+print(Vol)
