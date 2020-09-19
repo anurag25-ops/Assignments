@@ -1,0 +1,6 @@
+# Python program to accept the user's first and last name
+# printed in the reverse order with a space between first name and last name.
+
+x = input("Enter the first name")
+y = input("Enter the last name")
+print(y + " " + x)
